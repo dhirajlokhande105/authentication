@@ -1,0 +1,11 @@
+POST http://localhost:3001/register/
+
+Content-Type: application/json
+
+{
+    "name":"Dhiraj",
+    "username":"dhiraj105",
+    "password":"dhiraj105@",
+    "gender":"male",
+    "location":"pune"
+}
